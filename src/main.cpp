@@ -1,6 +1,8 @@
 #include <iostream>
 
+//main.cpp
+
 int main() {
-    std::cout << "Hello Architecture Project\n";
+    std::cout << "Hello World" << std::endl;
     return 0;
 }
